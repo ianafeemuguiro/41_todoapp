@@ -1,0 +1,17 @@
+.imagen1 {
+   float:left;
+   width:20%;
+   height:20%; 
+}
+.imagen2 {
+   float:left;
+   width:10%;
+   height:10%; 
+}
+.background {
+	background-color: gray;
+}
+div {
+	 text-align: justify;
+    text-justify: inter-word;
+}

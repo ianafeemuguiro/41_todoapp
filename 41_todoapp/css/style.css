@@ -1,0 +1,32 @@
+
+.box input[type=text] {
+  margin-bottom: 20px;
+  padding: 10px;
+  width: 100%;
+}
+ 
+.box input[type=text].error {
+  border: 5px solid #D32F2F;
+}
+ 
+.box .boton {
+  background: none;
+  border: 1px solid #D32F2F;
+  color: #fff;
+  display: inline-block;
+  font-size: 16px;
+  padding: 15px;
+}
+ 
+.box .boton:hover {
+  border: 1px solid #fff;
+}
+ 
+.lista {
+  list-style: none;
+  margin-top: 2%;
+}
+
+.tareas .lista li a:hover {
+  text-decoration: line-through;
+}
